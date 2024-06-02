@@ -1,0 +1,21 @@
+/* Apply global styles to all elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Background color for elements with class "bg-dark" */
+.bg-dark {
+    background-color: #75767B;
+}
+
+/* Top margin for elements with class "mt-50" */
+.mt-50 {
+    margin-top: 50px;
+}
+
+/* Border for element with id "canvas" */
+#canvas {
+    border: 2px solid black;
+}
